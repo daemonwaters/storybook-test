@@ -1,0 +1,18 @@
+.todo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+p{
+    color: #000;
+    margin-left: 1rem;
+}
+
+.controls{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
